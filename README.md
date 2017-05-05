@@ -63,4 +63,6 @@ You can change the settings of the map using the style function:
     weight: 3
 ```
 
-Find the style options available [here](http://leafletjs.com/reference-1.0.3.html#path)
+Find the style options [here](http://leafletjs.com/reference-1.0.3.html#path)
+
+An exmple of all the code/html is available in the file `tx-134-example.html`
