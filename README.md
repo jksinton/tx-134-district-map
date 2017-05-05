@@ -1,7 +1,7 @@
 # How to display Texas House District 134 using Mapbox on your webpage
 
 * Sign-up for a free Mapbox account [here](https://www.mapbox.com/signup/?plan=starter).
-This will give you an access token to generate maps using Mapbox. You can find your access token from [here](https://www.mapbox.com/studio/account/tokens/).
+This will give you an access token to generate maps using Mapbox. You can find your access token [here](https://www.mapbox.com/studio/account/tokens/).
 
 * Include the CSS and Javascript libraries into the page that will display the map: 
 ```
